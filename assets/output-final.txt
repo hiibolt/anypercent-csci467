@@ -1,0 +1,40 @@
+A UML -- sequence diagram
+A so-called -- True
+A system -- True
+An -- False
+Architectural -- True
+Architecture -- False
+In -- False
+Legacy -- True
+Object -- True
+Patterns -- True
+Program -- False
+Refactoring -- False
+Software design -- False
+Software inspection -- Concerned with analysis of the static system representation to discover problems
+The 4+1 -- logical, physical, development, process
+The MVC -- model, view, controller
+The majority -- True
+The pipe -- True
+The software -- The market capitalization of the corporation
+Urgent -- False
+Use -- False
+Verification -- True
+Whenever -- False
+Which item -- cost
+Which of the following causes -- Lack of complete system specification, Tight integration of system and business processes, Undocumented business rules embedded in the legacy system (all of the above)
+Which of the following is not a common -- Consider stakeholder constraints
+Which of the following is not a general -- Avoid computation results to be too large or too small
+Which of the following is not a level -- layer level
+Which of the following is not a question -- Which programming language should be used?
+Which of the following is not a stage -- Equivalence testing
+Which of the following is not a typical -- Interactive development environment
+Which of the following is not an advantage -- Performance Improvement
+Which of the following is not an approach -- scrabble
+Which of the following is not an issues -- Supplier stability
+Which of the following is not part -- Acceptance testing
+Which of the following is not usually -- System prototype
+Which of the following is the -- Analyze source code, modify source code, delivery modified system
+Which of the following may -- New requirements emerge when the software is used, Errors must be repaired, New computers and equipment is added to the system (all of the above)
+Which of the following plays -- bystander
+Who -- influential architect and design theorist

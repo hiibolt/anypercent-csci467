@@ -1,0 +1,183 @@
+Which of the following is not an essential attribute of good software?
+
+a. Acceptability
+
+b. Efficiency
+
+c. Maintainability
+
+d. --Affordability~~Computer science and software engineering are the same discipline?--False~~Even when following all ethical principles, ethical dilemmas can occur.--True~~What are the fundamental types of software product?
+
+a. 
+
+b. Customized + customer commissioned
+
+c. Generic + specialized
+
+d. Off-the-shelf + boxed--Generic + customized~~Which of the following is not an issue of professional responsibility?
+
+a. Confidentiality
+
+b. Competence
+
+c. Intellectual Property rights
+
+d. --Salary~~One of the ethical principles of the ACM/IEEE code of ethics is that software engineers shall be competitive, there is no need not be fair and supportive of colleagues.--False~~Which of the following is not a general issue that affect many different types of software ?
+
+a. Heterogeneity
+
+b. 
+
+c. Scale
+
+d. Security--Value~~Which of the following is not a fundamental activity in software processes ?
+
+a. Software development
+
+b. Software validation
+
+c. Software specification
+
+d. --Software estimation~~Systems should be developed using a managed and understood development process: one process fits all.--False~~Software engineering is an engineering discipline that is concerned with all aspects of software production from the early stages of system specification through to maintaining the system after it has gone into use?--True~~Requirements engineering is the process of developing a software specification.--True~~It is increasingly irrelevant to distinguish between software development and evolution.--True~~One approach to reducing the costs of rework is "change anticipation", where the process is designed so that changes can be accommodated at relatively low cost.--False~~Component adaptation and integration is a key stage of which software process model?
+
+a. Incremental development
+
+b. Cost estimation
+
+c. Waterfall model
+
+d. --Integration + configuration~~Programming is an individual activity with no standard process.--True~~In the SEI Capability Maturity Model which level denotes that process improvement strategies have been defined and are being used ?
+
+a. 
+
+b. Strategic
+
+c. Managed
+
+d. Defined--Optimizing~~Agile processes are processes where all of the process activities are planned in advance and progress is measured against this plan.--False~~Which of the following is not a stage of testing?
+
+a. System testing
+
+b. Acceptance testing
+
+c. 
+
+d. Component testing--Value testing~~Process descriptions may include pre- and post-conditions, which are statements that are true before and after a process activity has been enacted or a product produced.--True~~An advantage of the waterfall model is the ease of accommodating change after the process is underway.--False~~In Extreme Programming, user requirements are expressed as user stories or scenarios. They are not documented but broken into tasks. These tasks are the basis of schedule and cost estimates.--False~~Agile development is a plan driven approach.--False~~Which of the following is not part of the Agile Manifesto ?
+
+a. Responding to a change over following the plan
+
+b. Individual + interactions over processes + tools
+
+c. Customer collaboration over contract negotiation
+
+d. --Comprehensive documentation over working software~~'Scaling up' is concerned with how agile methods can be introduced across a large organization with many years of software development experience.--False~~Which of the following is not a principle of Agile methods?
+
+a. Embrace change
+
+b. Customer involvement
+
+c. Maintain simplicity
+
+d. --Process focus~~Which of the following is not an example of re-factoring ?
+
+a. The replacement of inline code with calls to methods that have been included in a program library
+
+b. 
+
+c. Re-organization of a class hierarchy to remove duplicate table
+
+d. Tidying up and renaming attributes and methods to make them easier to remove--The coding of a low-level device in assembly language~~In Scrum,which term matches this definition:
+
+"An individual (or possibly a small group) whose job is to identify product features or requirements, prioritize these for development and continuously review the product backlog to ensure that the project continues to meet critical business needs"
+
+a. Development team
+
+b. 
+
+c. Scrum master
+
+d. Sprinter--Product owner~~Consider this description of programming practices:
+
+"Large amounts of overtime are not considered acceptable as the net effect is often to reduce code quality and medium term productivity"
+
+Which term is used in Extreme programming for this practice ?
+
+a. Pair programming
+
+b. Continuous integration
+
+c. Collective ownership
+
+d. --Sustainable pace~~Extreme Programming (XP) takes an 'extreme' approach to iterative development.--True~~In Pair Programming 2 programmers are paired up for the duration of the complete project.--False~~The system design model is generated during the requirements engineering process.--False~~Which of the following is not a metric for specifying nonfunctional requirements?
+
+a. 
+
+b. Ease of use
+
+c. Robustness
+
+d. Speed--Luck~~Which of the following is not a type of requirement?
+
+a. User requirements
+
+b. System requirements
+
+c. 
+
+d. All of the above--Environment concerns~~The requirements engineering process is an iterative process that includes requirements elicitation, specification and validation?--True~~System managers cannot be system stakeholders.--False~~The software requirements document should set out WHAT the system should do rather than HOW it should do it.--True~~Which of the following is not a generic activity in the requirements engineering process?
+
+a. 
+
+b. Elicitation
+
+c. Management
+
+d. Validation--Modeling~~Which of the following is not a problem in requirements elicitation?
+
+a. Different stakeholders may have conflicting requirements
+
+b. 
+
+c. The requirements change during the analysis process
+
+d. Organizational and political factors may influence the system requirements--Stakeholders know what they really want~~Many agile methods argue that producing detailed system requirements is a waste of time.--True~~The requirements engineering process can be viewed as a spiral.--True~~Which of the following is not an essential model when modeling systems?
+
+a. Context model
+
+b. Interaction model
+
+c. Structural model
+
+d. --Consequential model~~In the context of graphical models incomplete and incorrect codes are OK as their role is to support discussion.--True~~Which of the following should be in a tabular description of a use case?
+
+a. 
+
+b. Comments, stake holders, actors
+
+c. Description, consequences, non-functional requirement
+
+d. Actors, stimulus, outcome, failure--Actors, description, data, stimulus. Response, comments~~Each use case represents a discrete task that involves external interaction with a system.--True~~UML activity diagrams may be used to define business process models--True~~What is not usually shown on a sequence diagram?
+
+a. Object
+
+b. Timeline
+
+c. Message
+
+d. --Subclass~~The notation "1..* at the end of an association between classes means?
+
+a. 
+
+b. Objects may or may not participate in the association
+
+c. At most 1 object may participate in the association
+
+d. Up to 100 objects may participate In the association--At least 1 object participates in the association~~UML stands for Universal Manufacturing Model--False~~Which of the following is not a UML diagram type?
+
+a. Activity
+
+b. Use Case
+
+c. Sequence
+
+d. --Data Flow~~A use case must have at least one actor.--True

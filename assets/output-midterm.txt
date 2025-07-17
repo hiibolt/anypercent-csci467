@@ -1,0 +1,50 @@
+'Scaling -- False
+A -- True
+Agile development -- False
+Agile processes -- False
+An -- False
+Component -- Integration + configuration
+Computer -- False
+Consider -- Sustainable pace
+Each -- True
+Even -- True
+Extreme -- True
+In Extreme -- False
+In Pair -- False
+In Scrum,which -- Product owner
+In the SEI -- Optimizing
+In the context -- True
+It -- True
+Many -- True
+One approach -- False
+One of -- False
+Process -- True
+Programming -- True
+Requirements -- True
+Software -- True
+System -- False
+Systems -- False
+The notation -- At least 1 object participates in the association
+The requirements engineering process can -- True
+The requirements engineering process is -- True
+The software -- True
+The system -- False
+UML activity -- True
+UML stands -- False
+What are -- Generic + customized
+What is -- Subclass
+Which of the following is not a UML -- Data Flow
+Which of the following is not a fundamental -- Software estimation
+Which of the following is not a general -- Value
+Which of the following is not a generic -- Modeling
+Which of the following is not a metric -- Luck
+Which of the following is not a principle -- Process focus
+Which of the following is not a problem -- Stakeholders know what they really want
+Which of the following is not a stage -- Value testing
+Which of the following is not a type -- Environment concerns
+Which of the following is not an essential attribute -- Affordability
+Which of the following is not an essential model -- Consequential model
+Which of the following is not an example -- The coding of a low-level device in assembly language
+Which of the following is not an issue -- Salary
+Which of the following is not part -- Comprehensive documentation over working software
+Which of the following should -- Actors, description, data, stimulus. Response, comments
